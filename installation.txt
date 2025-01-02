@@ -1,0 +1,3 @@
+adding a few details to this new repository and commit some changes. Then merge the information contained in instructions.txt to this current installatioon
+Adding-file-created
+Ready to push 
